@@ -1,0 +1,9 @@
+﻿global using MarketHub.DAL.Entities;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using MarketHub.DAL.Repository.Abstraction;
+global using MarketHub.DAL.Repository.Implementation;
+global using MarketHub.DAL.DataBase;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
