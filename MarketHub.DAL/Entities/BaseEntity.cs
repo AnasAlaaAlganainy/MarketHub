@@ -11,4 +11,5 @@ namespace MarketHub.DAL.Entities
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         //public bool IsDeleted { get; set; }
     }
+
 }
